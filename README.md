@@ -12,7 +12,6 @@
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
