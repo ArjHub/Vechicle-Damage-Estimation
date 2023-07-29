@@ -1,5 +1,5 @@
 
-# Car Damage Detection with VGG16 Model
+# Vehicle Damage Estimation
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ Nowadays, the car insurance business faces a significant financial burden due to
 To set up and run the project locallyby cloning it:
 
 ```
-git clone https://github.com/your-username/car-damage-detection.git
+git clone https://github.com/your-username/Vehicle-Damage-Estimation.git
 ```
 
 ## Usage
