@@ -1,4 +1,3 @@
-Sure! Below is an example of a `README.md` file for the project you described. Please customize it further with specific details and instructions as needed.
 
 # Car Damage Detection with VGG16 Model
 
